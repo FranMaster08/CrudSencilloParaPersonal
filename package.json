@@ -1,0 +1,19 @@
+{
+  "name": "personalsofware",
+  "version": "0.1.0",
+  "description": "Esto es un programa para meter personal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index"
+  },
+  "author": "Yo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "uuidv4": "^6.2.12"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
